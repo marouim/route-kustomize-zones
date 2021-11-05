@@ -3,4 +3,4 @@ apiVersion: route.openshift.io/v1
 metadata:
   name: zone_b
   annotations:
-    haproxy.router.openshift.io/ip_whitelist: "10.2.0.0/24 10.2.1.0/24"
+    haproxy.router.openshift.io/ip_whitelist: "10.2.0.0/24 10.2.1.0/24 76.68.202.14"
